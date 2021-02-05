@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973914575829",
+    "project_id": "blood-app-0",
+    "storage_bucket": "blood-app-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973914575829:android:576849a327acd97c18635c",
+        "android_client_info": {
+          "package_name": "com.aa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973914575829-j59rn856im82k35mun7ij7dga975eq7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBldCdZbRzbT6RJze9UDw5gO1soajcjQjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973914575829-j59rn856im82k35mun7ij7dga975eq7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
